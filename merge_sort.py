@@ -115,7 +115,7 @@ def main():
   # # first, second = slice_arr(arr_1)
   # # print(first, second)
   # Driver code to test above
-  # arr = [12, 11, 13, 5, 6, 7]
+  #arr = [12, 11, 13, 5, 6, 7]
   n = len(arr)
   print("Given array is")
   for i in range(n):
